@@ -41,9 +41,9 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">Two siblings, disguised as members of the opposite sex, navigate the intrigues of 18th-century London while falling in love with unsuspecting suitors.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			<p>Two siblings, Prudence and Robin Merriot, are forced to go into hiding after narrowly escaping a dangerous political situation. Prudence takes on the persona of a charming young man named Peter, while her brother Robin poses as a fashionable woman named Kate. As they navigate London society, they become entangled in misunderstandings and romantic relationships. The Merriot siblings’ true identities become harder to conceal, especially as they both fall in love with people unaware of their masquerades.</p>
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://archive.org/details/bwb_KR-818-355</dc:source>
